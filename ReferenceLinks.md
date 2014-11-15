@@ -19,6 +19,7 @@ References to my Contributions to Linux/OpenSource
 4. Energy Aware Scheduling micro-conferences held at the Linux Kernel Summit 2014 and at the Linux Plumbers Conference, 2014
 
    http://lwn.net/Articles/609969/
+   
    http://wiki.linuxplumbersconf.org/2014:energy-aware_scheduling
 
 5. Patchset enabling deep CPU idle states on PowerPC
