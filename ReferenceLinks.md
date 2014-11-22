@@ -31,6 +31,7 @@ References to my Contributions to Linux/OpenSource
 6. My patchset enabling deep CPU idle states on PowerPC
 
    http://www.kernelhub.org/?msg=395565&p=2
+   
    https://lkml.org/lkml/2014/11/3/485
 
 7. My article in LWN.net on the Tick Broadcast framework in the Linux Kernel
