@@ -16,6 +16,7 @@ References to my Contributions to Linux/OpenSource
 3. My presentation at the Linux Collaboration Summit on the ongoing efforts at enhancing the Linux kernel scheduler
 
    https://events.linuxfoundation.org/images/stories/slides/lfcs2013_murthy.pdf?update
+   https://www.youtube.com/watch?v=QV9_SGFTnKw
 
 4. Summary of the topics discussed at the Energy Aware Scheduling micro-conferences that I was invited to attend at the 
    Linux Kernel Summit 2014 and at the Linux Plumbers Conference, 2014
@@ -37,3 +38,7 @@ References to my Contributions to Linux/OpenSource
 7. My article in LWN.net on the Tick Broadcast framework in the Linux Kernel
 
    https://lwn.net/Articles/574962/
+   
+8. My article on Load Tracking in the Linux Kernel Scheduler, Lwn.net
+ 
+   https://lwn.net/Articles/639543/
